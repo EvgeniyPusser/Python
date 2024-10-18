@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b1a046-97af-4eca-81f6-8c1de087e2f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kyrianovTutor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Copying Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Didderents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eratosphen's sieve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sortings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shifns.py" afterDir="false" />
+    <list default="true" id="d6b1a046-97af-4eca-81f6-8c1de087e2f5" name="Changes" comment="Ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +18,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,7 +53,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/4792411/PycharmProjects/kyrianovTutor",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -87,7 +78,20 @@
       <option name="presentableId" value="Default" />
       <updated>1728468633315</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ok">
+      <option name="closed" value="true" />
+      <created>1729266109627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729266109627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
