@@ -102,9 +102,12 @@ def change_dollars(amount, rate, commission):
     res = dollars - com
     return res
 
+try:
+    ratedoll = float(input("Enter rate of $"))
+    print(f"Your cash is: {change_dollars(1000, ratedoll, 2): .2f} $ ")
+except:
+    print("Bug in user input")
 
-ratedoll = float(input("Enter rate of $"))
-print(f"Your cash is: {change_dollars(1000, ratedoll, 2): .2f} $ ")
 
 
 def change_euros(amount, rate, commission):

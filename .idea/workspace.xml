@@ -4,35 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b60851e-92fd-435a-ab72-194e6fd71c7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BP-111.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HM3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_var_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewNewfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factoring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5_func_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5_func_var_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5_salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6_home_work.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6_homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6_operators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7_if_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9_HW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9_count_figures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9_negative_degree.py" afterDir="false" />
+    <list default="true" id="1b60851e-92fd-435a-ab72-194e6fd71c7c" name="Changes" comment="My git">
+      <change afterPath="$PROJECT_DIR$/lesson10_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10_while2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webinar10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3_var_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3_var_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5_salary.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5_salary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9_count_figures.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9_count_figures.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +39,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Test.executor": "Run",
+    "Python.lesson10_HW.executor": "Run",
+    "Python.lesson10_while2.executor": "Run",
+    "Python.lesson11_HW.executor": "Run",
+    "Python.lesson11_arrays1.executor": "Run",
+    "Python.lesson12_HW.executor": "Run",
+    "Python.lesson12_arrays.executor": "Run",
     "Python.lesson4_functions.executor": "Run",
+    "Python.lesson5_salary.executor": "Run",
+    "Python.lesson9_count_figures.executor": "Run",
     "Python.lesson9_negative_degree.executor": "Run",
+    "Python.unique_numbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/4792411/PycharmProjects/kyrianovTutor"
+    "last_opened_file_path": "C:/Users/4792411/PycharmProjects/kyrianovTutor",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\4792411\PycharmProjects\BP-111" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +79,30 @@
       <option name="presentableId" value="Default" />
       <updated>1729262169714</updated>
     </task>
+    <task id="LOCAL-00001" summary="My git">
+      <option name="closed" value="true" />
+      <created>1729264487748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729264487748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My git" />
+    <option name="LAST_COMMIT_MESSAGE" value="My git" />
   </component>
 </project>

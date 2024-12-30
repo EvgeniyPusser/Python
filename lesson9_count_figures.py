@@ -14,7 +14,10 @@ def search_digit(number, digit):
         if digit == number % 10:
             res = True
         number = number // 10
-    return res
+    return res, 45, 45
 
 
+r = search_digit(678, 7)
+print(r)
+print(type(r))
 print(search_digit(2341, 3))
